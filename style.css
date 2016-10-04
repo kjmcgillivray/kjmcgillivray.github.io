@@ -1,0 +1,25 @@
+a {
+	color: black;
+	font-size: 40px;
+	text-decoration: none;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	}
+
+
+td {
+	
+	padding-bottom: 2.5em;
+	padding-right: 10em;
+	}
+	
+
+li {
+	
+	padding-bottom: 2.5em;
+	padding-right: 10em;
+	}
+	
